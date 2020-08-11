@@ -85,7 +85,6 @@ object FAcerca: TFAcerca
     Height = 177
     Align = alTop
     TabOrder = 0
-    ExplicitTop = 24
     object Image1: TImage
       Left = 21
       Top = 64
